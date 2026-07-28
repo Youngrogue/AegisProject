@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Institutional — Nigeria Security Incident Mapping Platform",
+  "description": "Institutional platform for tracking, mapping, and verifying reported security incidents across Nigeria with source provenance and academic rigor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
